@@ -7,4 +7,10 @@
 -if finished with this and can't think of other things you want to explore with this, we may start playing around with CNNs
 
 
-
+-SFG
+-first play with Randy's code in Matlab. Start getting familiar with its functionality (we can work a little together on this if need be...im rusty on his code too)
+-start building python class based on the function in matlab
+-compare performance in python to matlab performance
+-implement compatibility with other code
+	-this will require first understanding the input field type for the current code
+	-then will need to work on matching output form (spectral intensity and phase) from dazzler/RA to this form
