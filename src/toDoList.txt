@@ -1,0 +1,10 @@
+-Compare code output to ones from manual
+-start playing with code (use different parameters and get a feel for what adding just phase will do and then amplitude modulation)
+-combine amp and phase
+-add functionality for stored waveforms (will need to read through manual a bit)
+-make sure things working for our wavelength of interest (see what kind of sampling this requires)
+-transform output from dazzler code to spectrogram (look up FROG, we can discuss FROG retrieval too sometime)
+-if finished with this and can't think of other things you want to explore with this, we may start playing around with CNNs
+
+
+
