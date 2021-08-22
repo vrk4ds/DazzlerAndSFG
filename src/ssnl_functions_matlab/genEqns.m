@@ -4,7 +4,7 @@ syms w theta l lCtr field1 field2 field3 dOmega kk2 kk3 kk4 kk5 phiTay
 
 %% index of refraction equations %%
 
-[nO,nE_Theta,this.props_dNL] = this.indexEqns(this.props_crys);
+[nO,nE_Theta,this.props_dNL] = this.indexEqns(this.props_crys); 
 
 if strcmpi(this.props_mixType,'SFG')
     
